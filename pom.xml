@@ -81,7 +81,7 @@
 				</executions>
 				<configuration>
 					<sources>
-						<source>${project.basedir}/src/main/resources/xsd/domicilio.xsd</source>
+						<source>${project.basedir}/src/main/resources/xsd/paciente.xsd</source>
 					</sources>
 					<outputDirectory>src/main/java</outputDirectory>
 					<clearOutputDir>false</clearOutputDir>

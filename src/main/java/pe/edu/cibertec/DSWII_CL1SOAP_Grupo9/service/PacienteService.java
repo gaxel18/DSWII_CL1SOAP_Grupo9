@@ -27,7 +27,7 @@ public class PacienteService {
         }
         return paciente.get();
     }
-    public Paciente guardarDomicilio(Paciente paciente){
+    public Paciente guardarPaciente(Paciente paciente){
         return pacienteRepository.save(paciente);
     }
 }
