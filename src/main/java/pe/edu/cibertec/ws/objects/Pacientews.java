@@ -143,6 +143,15 @@ public class Pacientews{
      *     {@link Date }
      *
      */
+
+    public void setDocpaciente(String value) {this.docpaciente = value;    }
+
+
+    /**
+     * Obtiene el valor de la propiedad fechanacpaciente.
+     *
+     */
+
     public void setFechanacpaciente(Date value) {this.fechanacpaciente = value;    }
 
 
